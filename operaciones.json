@@ -21,13 +21,6 @@
     "subnombre": ""
   },
   {
-    "nombre": "bluelink-redcolsa",
-    "token": "7b69645f6469737472697d2d3230323431323138313335303438",
-    "puerto": "0022",
-    "carpeta": "07 Redcolsa",
-    "subnombre": ""
-  },
-  {
     "nombre": "supergiros-lafer",
     "token": "7b69645f6469737472697d2d3230323530363039313635373235",
     "puerto": "0058",
