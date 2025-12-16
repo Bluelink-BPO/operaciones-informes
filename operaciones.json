@@ -19,19 +19,5 @@
     "puerto": "0012",
     "carpeta": "05 Estrategias - Empresariales",
     "subnombre": ""
-  },
-  {
-    "nombre": "supergiros-lafer",
-    "token": "7b69645f6469737472697d2d3230323530363039313635373235",
-    "puerto": "0058",
-    "carpeta": "01 Supergiros",
-    "subnombre": "LAFER"
-  },
-  {
-    "nombre": "bluelink-bellosalud",
-    "token": "7b69645f6469737472697d2d3230323530353237313530353137",
-    "puerto": "0009",
-    "carpeta": "08 Bellosalud",
-    "subnombre": ""
   }
 ]
